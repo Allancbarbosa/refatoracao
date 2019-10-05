@@ -1,0 +1,6 @@
+projectKey=notafiscal_exercicio
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=notafiscal_exercicio
+ceTaskId=AW15nFRJ0yGL8v7-OBY7
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW15nFRJ0yGL8v7-OBY7

@@ -1,0 +1,4 @@
+br\com\diego\notafiscal\NotaFiscalController.class
+br\com\diego\notafiscal\NotaFiscal.class
+br\com\diego\notafiscal\NotaFiscalRepository.class
+br\com\diego\notafiscal\WebApplication.class
